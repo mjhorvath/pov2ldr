@@ -30,3 +30,7 @@ cscript "J:\Working\Povray\LDraw\pov2ldr\pov2ldr.js"
 
 The "-ldd" flag may not be needed because the program will first try to locate 
 the LDraw path in either the "LDRAWDIR" environmental variable or "ldraw.ini".
+
+# To do
+
+1. Rewrite this tool in Python.
